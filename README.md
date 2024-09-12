@@ -14,7 +14,7 @@ This project starts to be an interview project. Now I am using it to monitor my 
 
 ## Install from github 
 ```
-pip install git+http://github.com/yurilaaziz/log-analyzer.git
+pip install git+http://github.com/joukar4/log-analyzer.git
 
 ```
 
